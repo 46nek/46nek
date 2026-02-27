@@ -22,11 +22,8 @@
 
 ## 📊 GitHub & Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=46nek&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Yura's GitHub stats" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages Card" />
+[![](https://github-readme-stats-rinrin0413.vercel.app/api/top-langs/?username=46nek&count_private=true&theme=dark&hide_border=true&border_radius=4px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-rinrin0413.vercel.app/api?username=46nek&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=4px)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
