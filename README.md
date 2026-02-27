@@ -1,7 +1,5 @@
 # <div align="center">西本ゆら / Yura Nishimoto</div>
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=000000,af0000&height=250&section=header&text=Welcome%20to%20OBSCURA&fontSize=70&animation=fadeIn&fontAlignY=40)
-
 <div align="center">
   <h3>Representative of REVATI / Game Creator</h3>
   <p>19-year-old student from Japan. Developing 3D Horror Games and Managing Esports Team.</p>
@@ -55,3 +53,5 @@
 
 ---
 <p align="center"><i>"The boundary between reality and nightmare is blurring..."</i></p>
+
+https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer
