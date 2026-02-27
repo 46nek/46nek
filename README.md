@@ -22,7 +22,7 @@
 
 ## 📊 GitHub & Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=46nek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  [![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=46nek&count_private=true)](https://github.com/46nek/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
   
