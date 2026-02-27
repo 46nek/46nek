@@ -24,9 +24,9 @@
 <div align="center">
   [![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=46nek&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+  ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact)
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=46nek&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" />
+
 </div>
 
 ---
