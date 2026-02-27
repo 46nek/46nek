@@ -20,24 +20,21 @@
 
 ---
 
+
 ## 📊 GitHub & Coding Stats
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=46nek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
   
   <br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=46nek&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
 
   <br>
 
-  <a href="https://wakatime.com/@46nek">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=46nek&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=46nek&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" />
 </div>
+
 
 ---
 
