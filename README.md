@@ -13,10 +13,9 @@
     - `DirectX` / `C++`
     - Project: **OBSCURA** (3D Horror Escape Game)
 - 🏆 **Esports Management**
-    - Representative & GM of **REVATI**
-    - OWCS Japan / Creative Strategy
+    - Representative of **REVATI**
 - 🪄 **Creative Work**
-    - REVATI Studio / Branding & Design
+    - Representative of **REVATI Studio**
 
 ---
 
