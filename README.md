@@ -20,10 +20,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=46nek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=46nek&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
