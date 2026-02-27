@@ -1,8 +1,10 @@
 # <div align="center">西本ゆら / Yura Nishimoto</div>
 
+![Header](https://capsule-render.vercel.app/api?type=venom&color=000000,af0000&height=250&section=header&text=Welcome%20to%20OBSCURA&fontSize=70&animation=fadeIn&fontAlignY=40)
+
 <div align="center">
   <h3>Representative of REVATI / Game Creator</h3>
-  <p>19-year-old student from Japan. Developing 3D Horror Games and Managing Esports Team.</p>
+  <p>20-year-old student from Japan. Developing 3D Horror Games and Managing Esports Team.</p>
 </div>
 
 ---
@@ -35,7 +37,6 @@
   <img src="https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Overwatch%202-F99E1A?style=for-the-badge&logo=overwatch&logoColor=white" />
 </p>
 
 ---
@@ -49,9 +50,8 @@
   <a href="https://discord.com/users/46nek_0">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <br>
+  📫 Email: <b>nishimoto.yura@gmail.com</b>
 </div>
 
----
-<p align="center"><i>"The boundary between reality and nightmare is blurring..."</i></p>
-
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer
+![Footer](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer)
