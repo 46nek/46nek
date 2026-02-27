@@ -21,8 +21,8 @@
 ---
 
 ## 📊 GitHub & Coding Stats
-[![](https://github-readme-stats-46nek.vercel.app/api/top-langs/?username=46nek&count_private=true&theme=dark&hide_border=true&border_radius=4px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats-46nek.vercel.app/api?username=46nek&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=4px)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=46nek&count_private=true&theme=dark&hide_border=true&border_radius=4px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=46nek&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=4px)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
