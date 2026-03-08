@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3>Representative of REVATI / Game Creator</h3>
-  <p>20-year-old student from Japan. Developing 3D Horror Games and Managing Esports Team.</p>
 </div>
 
 ---
@@ -11,17 +10,11 @@
 
 - 🎮 **Game Development**
     - `DirectX` / `C++`
-    - Project: **OBSCURA** (3D Horror Escape Game)
-- 🏆 **Esports Management**
+    - `Unity / C#`
+- 🏆 **Esports**
     - Representative of **REVATI**
-- 🪄 **Creative Work**
+- 🪄 **Creative**
     - Representative of **REVATI Studio**
-
----
-
-
-## 📊 GitHub & Coding Stats
-[![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=46nek)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -48,5 +41,3 @@
   <br>
   📫 Email: <b>nishimoto.yura@gmail.com</b>
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer)
