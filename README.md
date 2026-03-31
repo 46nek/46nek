@@ -1,4 +1,4 @@
-# <div align="center">西本ゆら / Yura Nishimoto</div>
+# <div align="center">西本ゆら / Nishimoto Yura</div>
 
 <div align="center">
   <h3>Representative of REVATI / Game Creator</h3>
